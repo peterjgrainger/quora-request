@@ -18,7 +18,7 @@
     "koa": "^2.5.2",
     "koa-body": "^4.0.4",
     "koa-router": "^7.4.0",
-    "quora-automation": "^1.0.10"
+    "quora-automation": "^1.0.15"
   },
   "devDependencies": {
     "@types/koa": "^2.0.46",
