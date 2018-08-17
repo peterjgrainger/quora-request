@@ -1,0 +1,27 @@
+{
+  "name": "quora-request",
+  "version": "1.0.0",
+  "description": "KOA api to automate requests to quora",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "quora",
+    "koa",
+    "jest",
+    "typescript"
+  ],
+  "author": "Peter Grainger <“peter@grainger.xyz”> (http://grainger.xyz)",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0",
+    "quora-automation": "^1.0.10"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.46",
+    "@types/koa-router": "^7.0.31"
+  }
+}

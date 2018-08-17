@@ -1,0 +1,7 @@
+.vscode
+node_modules
+src
+Dockerfile
+.dockerignore
+package-lock.json
+tsconfig.json
