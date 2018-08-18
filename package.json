@@ -4,7 +4,9 @@
   "description": "KOA api to automate requests to quora",
   "main": "js/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "postinstall": "tsc",
+    "start": "node js/index.js"
   },
   "keywords": [
     "quora",
@@ -17,11 +19,14 @@
   "dependencies": {
     "koa": "^2.5.2",
     "koa-body": "^4.0.4",
+    "koa-helmet": "^4.0.0",
     "koa-router": "^7.4.0",
     "quora-automation": "^1.0.15"
   },
   "devDependencies": {
     "@types/koa": "^2.0.46",
-    "@types/koa-router": "^7.0.31"
+    "@types/koa-helmet": "^3.1.2",
+    "@types/koa-router": "^7.0.31",
+    "typescript": "^3.0.1"
   }
 }
