@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "KOA api to automate requests to quora",
   "main": "js/index.js",
+  "engines": {
+    "node": "10.1.0"
+  },
   "scripts": {
     "test": "jest",
     "postinstall": "tsc",
