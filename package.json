@@ -20,6 +20,8 @@
   "author": "Peter Grainger <“peter@grainger.xyz”> (http://grainger.xyz)",
   "license": "MIT",
   "dependencies": {
+    "@types/joi": "^13.4.3",
+    "joi": "^13.6.0",
     "koa": "^2.5.2",
     "koa-body": "^4.0.4",
     "koa-helmet": "^4.0.0",
