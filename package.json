@@ -20,19 +20,19 @@
   "author": "Peter Grainger <“peter@grainger.xyz”> (http://grainger.xyz)",
   "license": "MIT",
   "dependencies": {
-    "@types/joi": "^13.4.3",
+    "@types/joi": "^13.4.4",
     "joi": "^13.6.0",
     "koa": "^2.5.2",
     "koa-body": "^4.0.4",
     "koa-helmet": "^4.0.0",
     "koa-router": "^7.4.0",
-    "quora-automation": "^1.0.22",
-    "rollbar": "^2.4.4"
+    "quora-automation": "^1.0.23",
+    "rollbar": "^2.4.5"
   },
   "devDependencies": {
     "@types/koa": "^2.0.46",
     "@types/koa-helmet": "^3.1.2",
     "@types/koa-router": "^7.0.31",
-    "typescript": "^3.0.1"
+    "typescript": "^3.0.3"
   }
 }
