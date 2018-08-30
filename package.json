@@ -26,7 +26,7 @@
     "koa-body": "^4.0.4",
     "koa-helmet": "^4.0.0",
     "koa-router": "^7.4.0",
-    "quora-automation": "^1.0.23",
+    "quora-automation": "^1.0.24",
     "rollbar": "^2.4.5"
   },
   "devDependencies": {
